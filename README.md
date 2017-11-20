@@ -12,9 +12,10 @@ docker-machine create manager
 docker-machine create agent1
 docker-machine create agent2
 ```
-![alt]({{"/Снимок экрана от 2017-11-20 09-09-20.png" | absolute_url}})
+![alt]({{"/Снимок экрана от 2017-11-20 09-10-46.png" | absolute_url}})
 Рисунок 2 — Создание узла agent1
-![alt]({{"/Снимок экрана от 2017-11-15 10-06-13.png" | absolute_url}})
+
+![alt]({{"/Снимок экрана от 2017-11-20 09-09-20.png" | absolute_url}})
 Рисунок 3 — Создание узла agent2
 Информацию о созданных узлах можно вывести при помощи команды:
 ```
